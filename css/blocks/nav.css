@@ -1,0 +1,32 @@
+.nav__text {
+	color: #ffffff;
+	font-size: 13px;
+	text-transform: uppercase;
+	line-height: 30px;
+}
+
+.nav__link {
+	text-decoration: none;
+}
+
+.nav__list-item {
+	color: #ffffff;
+	display: inline-block;
+	margin-left: 38px;
+}
+
+.nav {
+	display: inline-block;
+	text-align: right;
+	margin-left: 215px;
+	margin-top: 0px;
+	vertical-align: top;
+}
+
+.nav__list {
+	list-style: disc;
+	list-style-position: inside;
+}
+
+
+
